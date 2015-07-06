@@ -55,5 +55,10 @@ Be aware that Windows will automatically sync settings - this might make your VM
 
 That's it! Have fun!
 
+Pro-Tip: 
+Malte Lantin recorded an MVA course showing additonal ways to spend your azure credits:
+<http://www.microsoftvirtualacademy.com/training-courses/microsoft-azure-als-kostenfreie-test-entwicklungsumgebung-f-r-msdn-abonnenten>
+
 Daniel
+
 <http://blogs.msdn.com/b/dmx/>
