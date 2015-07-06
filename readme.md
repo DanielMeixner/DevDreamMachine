@@ -36,7 +36,8 @@ A direct link to your machine can be found on the startscreen of the azure porta
 
 
 ### 7. Connect via remote desktop ###
-After a short while (ca. 1 minute) the connect button will be enabled. Click it to open a remote deskotp connection to the virtual machine. Save the Link on your desktop for later use. Then log in with the credentials provided earlier.
+After a short while (ca. 1 minute) the connect button will be enabled. 
+Click it to open a remote desktop connection to the virtual machine. Save the Link on your desktop for later use. Then log in with the credentials provided earlier.
 ![Azure Portal](images/7_Connect.jpg )
 
 ### 8. Multiple Monitors ###
