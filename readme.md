@@ -54,3 +54,6 @@ If you want to connect with a Microsoft account on your virtual machine, just cr
 Be aware that Windows will automatically sync settings - this might make your VM look like your physical PC. I recommend disabling sync of themes to the virtual machine to be aware of what machine you're working on.
 
 That's it! Have fun!
+
+Daniel
+<http://blogs.msdn.com/b/dmx/>
