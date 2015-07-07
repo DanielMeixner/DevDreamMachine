@@ -10,7 +10,7 @@ It's all pretty easy. Here's what you want to do step by step:
 ### 1. Open the Azure Portal ###
 Go to <http://portal.azure.com> and log in. If you don't have  an account yet, create one. We don't go into details here how to create an account. I'm pretty sure you get this done.
 
-![Azure Portal](images/1_portal.jpg )
+![Azure Portal](images/1_portal.jpg  )
 
 ### 2. Create a virtual machine. ###
 Create the virtual machine based on a template in the gallery. There are plenty of templates. For now we select the Windows 10 machine with installed developer tools.
@@ -21,7 +21,7 @@ The easiest way to find this template is to filter for Windows 10. Select the te
 ![Azure Portal](images/3_Win10Dev.jpg )
 
 ### 4. Provide names & credentials ### 
-As always when setting up a machine you need a name for the machine, a user name for the admin account and a password. Here's a tip: Think about a naming convention for your machines. You might end up having multiple of them soon. How about: YourAcronym.OperationSystem ? Feel free to be creative!
+As always when setting up a machine you need a name for the machine, a user name for the admin account and a password. Here's a tip: Think about a naming convention for your machines. You might end up having multiple of them soon. How about: YourAcronym+OperationSystem ? Feel free to be creative!
 ![Azure Portal](images/4_VMName.jpg )
 
 ### 5. Config & Create ###
